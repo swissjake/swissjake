@@ -37,7 +37,3 @@ I'm a Frontend Developer with Knowledge in ReactJs and NextJs.
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/swissjake"><img src="https://activity-graph.herokuapp.com/graph?username=swissjake&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-### Support Me
-
-<a href="https://www.buymeacoffee.com/gcDFkJfSNg"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>

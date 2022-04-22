@@ -7,9 +7,9 @@ Frontend Developer
 I'm a Frontend Developer with Knowledge in ReactJs and NextJs.
 
 * 🌍  I'm based in Nigeria
-* 🖥️  See my portfolio at [my personal portfolio](http://https://sofiritari-amgbara.netlify.app/)
+* 🖥️  See my portfolio at [my personal portfolio](https://sofiritari-amgbara.netlify.app/)
 * ✉️  You can contact me at [sofiriamgbara@gmail.com](mailto:sofiriamgbara@gmail.com)
-* 🚀  I'm currently working on [Airbnb clone](http://https://airbnb-clone-2-sigma.vercel.app/)
+* 🚀  I'm currently working on [Airbnb clone](https://airbnb-clone-2-sigma.vercel.app/)
 * 🧠  I'm learning Redux and Jest for testing
 
 ### Skills

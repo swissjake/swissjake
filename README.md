@@ -1,4 +1,4 @@
-Hi 👋 My name is Amgbara Sofiritari
+Hi 👋 My name is Sofiritari Amgbara 
 ===================================
 
 Frontend Developer

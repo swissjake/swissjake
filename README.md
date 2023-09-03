@@ -1,7 +1,7 @@
 Hi 👋 My name is Sofiritari Amgbara 
 ===================================
 
-Frontend Developer
+Software engineer
 ------------------
 
 I'm a Frontend Developer with Knowledge in ReactJs and NextJs.

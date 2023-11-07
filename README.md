@@ -4,7 +4,7 @@ Hi 👋 My name is Sofiritari Amgbara
 Software engineer
 ------------------
 
-I'm a Frontend Developer with Knowledge in ReactJs and NextJs.
+I'm a Software engineer
 
 * 🌍  I'm based in Nigeria
 * 🖥️  See my portfolio at [my personal portfolio](https://sofiritariamgbara.vercel.app/)

@@ -6,7 +6,7 @@ Software engineer
 
 I'm a Software engineer
 
-* 🌍  I'm based in Nigeria
+* 🌍  I'm based in UK
 * 🖥️  See my portfolio at [my personal portfolio](https://sofiritariamgbara.vercel.app/)
 * ✉️  You can contact me at [sofiriamgbara@gmail.com](mailto:sofiriamgbara@gmail.com)
 <!-- * 🚀  I'm currently working on [Airbnb clone](https://airbnb-clone-2-sigma.vercel.app/) -->

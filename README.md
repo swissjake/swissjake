@@ -10,7 +10,6 @@ I'm a Software engineer
 * 🖥️  See my portfolio at [my personal portfolio](https://sofiritariamgbara.vercel.app/)
 * ✉️  You can contact me at [sofiriamgbara@gmail.com](mailto:sofiriamgbara@gmail.com)
 <!-- * 🚀  I'm currently working on [Airbnb clone](https://airbnb-clone-2-sigma.vercel.app/) -->
-* 🧠  I'm learning Redux and Jest for testing
 
 ### Skills
 

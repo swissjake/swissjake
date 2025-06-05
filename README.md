@@ -56,20 +56,6 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 
 ---
 
-### 🤓 Dev Joke
-
-<p align="center">
-  <strong>I have a joke about debugging...</strong><br>
-  But it works on my machine. 💻😅
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="Debugging GIF">
-</p>
-
----
-
-
 ### 📊 GitHub Stats
 
 <p align="center">

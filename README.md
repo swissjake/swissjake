@@ -18,11 +18,7 @@ A passionate and versatile Software Engineer based in the UK, building secure, s
 ### 🎓 Education
 
 - **MSc, Software Engineering** – University of Hertfordshire  
-  *Graduated with Distinction*  
-  *Dissertation: A Secure and User-Centric Password Management System*
-
-- **BEng, Electrical & Electronic Engineering**
-
+  *Graduated with Distinction*
 ---
 
 ### 🧰 Tech Stack

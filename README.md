@@ -8,9 +8,13 @@ A passionate and versatile Software Engineer based in the UK, building secure, s
 
 ### 🚀 About Me
 
-- 💼 Software Engineer with over **4 years** of experience building secure, scalable systems.
-- 🌍 Based in the UK | 💬 Ask me about backend architecture, monorepos, and real-time systems.
-- 📫 Reach me at: [sofiriamgbara@gmail.com](mailto:sofiriamgbara@gmail.com)
+- 💻 Software Engineer with 4+ years of experience designing and deploying secure, scalable, and user-centric systems across web and mobile platforms.
+
+- 🌍 Currently based in the UK, passionate about backend architecture, real-time communication, and clean code practices.
+
+- 🧩 I enjoy working on monorepos, distributed systems, and developer tooling that enhance productivity and performance.
+
+- 📬 Reach me anytime at sofiriamgbara@gmail.com — I’m open to collaboration, consulting, or a good tech conversation.
 
 ---
 

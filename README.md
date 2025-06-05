@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Sofiritari Amgbara</h1>
+<h1 align="center">Hi 👋, I'm Sofiritari</h1>
 
 <p align="center">
 I'm a Software Engineer with over 4 years of experience building web and mobile applications. I focus on writing clean, efficient code and developing scalable systems that solve real-world problems with clarity and reliability.

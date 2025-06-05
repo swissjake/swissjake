@@ -56,18 +56,21 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 
 ---
 
+### 🤓 Dev Joke
+
+<div align="center" style="background-color:#1e293b; padding: 20px; border-radius: 10px; color: #fff; font-family: monospace; font-size: 16px;">
+  <p><strong>I have a joke about debugging...</strong></p>
+  <p>But it works on my machine. 💻🚫</p>
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" alt="Debugging gif" />
+</div>
+
+---
+
 ### 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=swissjake&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
-
----
-
-### 🤓 Dev Joke
-
-> I have a joke about debugging...  
-> But it works on my machine. 💻🚫
 
 ---
 

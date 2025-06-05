@@ -11,7 +11,6 @@ A passionate and versatile Software Engineer based in the UK, building secure, s
 - 💼 Software Engineer with over **4 years** of experience building secure, scalable systems.
 - 🌍 Based in the UK | 💬 Ask me about backend architecture, monorepos, and real-time systems.
 - 📫 Reach me at: [sofiriamgbara@gmail.com](mailto:sofiriamgbara@gmail.com)
-- 🌐 Portfolio: [sofiritariamgbara.vercel.app](https://sofiritariamgbara.vercel.app)
 
 ---
 
@@ -32,7 +31,6 @@ A passionate and versatile Software Engineer based in the UK, building secure, s
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nestjs-colored.svg" width="36" height="36" alt="NestJS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
-  <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" />
 </p>
 
 #### Frontend

@@ -52,8 +52,9 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
-   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" width="36" height="36" alt="Grafana" />
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/loki.svg" width="36" height="36" alt="Loki" />
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" width="36" height="36" alt="Grafana" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/36/Grafana_loki_logo.png" width="36" height="36" alt="Loki" />
+</p>
 </p>
 
 ---

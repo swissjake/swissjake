@@ -11,7 +11,7 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 - 💻 Software Engineer with 4+ years of experience designing and deploying secure, scalable, and user-centric systems across web and mobile platforms.
 - 🌍 Currently based in the UK, passionate about backend architecture, real-time communication, and clean code practices.
 - 🧩 I enjoy working on monorepos, distributed systems, and developer tooling that enhance productivity and performance.
-- 📬 Reach me anytime at sofiriamgbara@gmail.com — I’m open to collaboration, consulting, or a good tech conversation.
+- 📬 Reach me anytime at sofiriamgbara@gmail.com. I’m open to collaboration, consulting, or a good tech conversation.
 
 ---
 

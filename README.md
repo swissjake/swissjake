@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofiritari Amgbara</h1>
 
 <p align="center">
-A passionate and versatile Software Engineer based in the UK, building secure, scalable systems across web, mobile, and backend platforms.
+I'm a Software Engineer with over 4 years of experience building web and mobile applications. I focus on writing clean, efficient code and developing scalable systems that solve real-world problems with clarity and reliability.
 </p>
 
 ---

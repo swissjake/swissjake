@@ -64,6 +64,13 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 
 ---
 
+### 🤓 Dev Joke
+
+> I have a joke about debugging...  
+> But it works on my machine. 💻🚫
+
+---
+
 ### 🌐 Connect With Me
 
 <p align="left">

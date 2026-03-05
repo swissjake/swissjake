@@ -62,7 +62,7 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 ---
 
 ### 📊 GitHub Stats
-[<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sofiritari-amgbara&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 

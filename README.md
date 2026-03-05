@@ -23,7 +23,7 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
 
 ### 🧰 Tech Stack
 
-#### Languages & Backend
+💻 Languages & Backend
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" />
@@ -34,7 +34,7 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" />
 </p>
 
-#### Frontend
+🌐 Frontend
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" width="36" height="36" alt="Next.js" />
@@ -45,7 +45,7 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" />
 </p>
 
-#### Databases & Cloud
+🗄 Databases & Cloud
 <p align="left">
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" />
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
@@ -54,6 +54,15 @@ I'm a Software Engineer with over 4 years of experience building web and mobile 
   <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" />
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/grafana.svg" width="36" height="36" alt="Grafana" />
 </p>
+</p>
+
+🤖 Data Science & AI
+<p align="left"> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pandas-colored.svg" width="36" height="36" alt="Pandas" /> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/numpy-colored.svg" width="36" height="36" alt="NumPy" /> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/scikit-learn-colored.svg" width="36" height="36" alt="Scikit-learn" /> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tensorflow-colored.svg" width="36" height="36" alt="TensorFlow" /> 
+ <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" />
 </p>
 
 ---

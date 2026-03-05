@@ -1,17 +1,18 @@
 <h1 align="center">Hi 👋, I'm Sofiritari</h1>
 
 <p align="center">
-I'm a Software Engineer with over 4 years of experience building web and mobile applications. I focus on writing clean, efficient code and developing scalable systems that solve real-world problems with clarity and reliability.
+I'm a Software Engineer with 4+ years of experience building **web and mobile applications**. I write **clean, efficient code** and design **scalable systems**, and I also explore **AI and data-driven solutions** using Python, Pandas, NumPy, and modern ML frameworks.
 </p>
 
 ---
 
 ### 🚀 About Me
 
-- 💻 Software Engineer with experience of designing and deploying secure, scalable, and user-centric systems across web and mobile platforms.
-- 🌍 Currently based in the UK, passionate about backend architecture, real-time communication, and clean code practices.
-- 🧩 I enjoy working on monorepos, distributed systems, and developer tooling that enhance productivity and performance.
-- 📬 Reach me anytime at sofiriamgbara@gmail.com. I’m open to collaboration, consulting, or a good tech conversation.
+- 💻 Experienced in designing and deploying **secure, scalable, and user-centric systems** across web, mobile, and data-driven platforms.  
+- 🤖 Passionate about **AI, machine learning, and data science**, with hands-on experience in **Python, Pandas, NumPy, Scikit-learn, TensorFlow, and PyTorch**.  
+- 🌍 Based in the **UK**, focused on **backend architecture**, **real-time communication**, and **clean code practices**.  
+- 🧩 Enjoy working on **monorepos**, **distributed systems**, and **developer tooling** that boost productivity and performance.  
+- 📬 Always happy to connect! Reach me at **sofiriamgbara@gmail.com** for collaboration, consulting, or a tech conversation.
 
 ---
 

@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sofiritari</h1>
 
 <p align="center">
-I'm a Software Engineer with 4+ years of experience building **web and mobile applications**. I write **clean, efficient code** and design **scalable systems**, and I also explore **AI and data-driven solutions** using Python, Pandas, NumPy, and modern ML frameworks.
+I'm a Software Engineer with 4+ years of experience building <strong>web and mobile applications</strong>. 
+I write <strong>clean, efficient code</strong> and design <strong>scalable systems</strong>, and I also explore 
+<strong>AI and data-driven solutions</strong> using Python, Pandas, NumPy, and modern ML frameworks.
 </p>
 
 ---

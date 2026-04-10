@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sofiritari</h1>
 
 <p align="center">
-Software Engineer with 4+ years of experience building scalable web, mobile, and data-driven systems.  
+Software Engineer with 5+ years of experience building scalable web, mobile, and data-driven systems.  
 My work sits at the intersection of <strong>software engineering, distributed systems, and applied AI</strong>.  
 I focus on designing <strong>reliable architectures</strong>, writing <strong>high-quality maintainable code</strong>, and exploring how 
 <strong>machine learning and intelligent systems</strong> can improve real-world products.
